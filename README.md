@@ -97,6 +97,8 @@ docker run -d -p 8188:8188 sms-hog
 
 ### POST a new SMS
 
+#### Using Postman
+
 ```http
 POST http://localhost:8188/api/sms
 Content-Type: application/json
@@ -105,6 +107,17 @@ Content-Type: application/json
   "phone": "256712345678",
   "message": "Hello from Postman or curl. This message is long enough to test over the 160 character SMS limit. Let's see if it flags correctly in the inbox UI and splits properly."
 }
+```
+
+#### Using curl
+
+```bash
+curl -X POST http://localhost:8188/api/sms \
+     -H "Content-Type: application/json" \
+     -d '{
+           "phone": "256712345678",
+           "message": "Hello from Postman or curl. This message is long enough to test over the 160 character SMS limit. Let's see if it flags correctly in the inbox UI and splits properly."
+         }'
 ```
 
 ---
