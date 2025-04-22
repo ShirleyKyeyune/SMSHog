@@ -1,0 +1,57 @@
+[
+  {
+    "phone": "256712345632",
+    "message": "This is a really long SMS test message meant to exceed the 160‑character limit. It goes on and on, rambling about how we need to ensure the UI flags overages correctly, so here’s some extra text to push it past the threshold!",
+    "timestamp": "2025-04-22T20:30:10.781Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "adfasdfasdfasd",
+    "timestamp": "2025-04-22T20:26:38.042Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "adfasdfasdfasd",
+    "timestamp": "2025-04-22T20:26:33.050Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:26:19.311Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:26:11.745Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:26:09.515Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:26:07.545Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:26:05.485Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:26:03.259Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:25:58.112Z"
+  },
+  {
+    "phone": "256712345678",
+    "message": "Hello from Ktor!",
+    "timestamp": "2025-04-22T20:00:00.403Z"
+  }
+]
