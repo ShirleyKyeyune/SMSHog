@@ -2,6 +2,8 @@
 
 **SMS Hog** is a lightweight Node.js application designed to simulate an SMS inbox for testing purposes. It provides a web UI and REST API for receiving and viewing SMS messages. Useful for developers building SMS-related features. Easily containerized with Docker.
 
+![SMS Hog UI](public/smsHog-image.png)
+
 ---
 
 ## ✅ Features
